@@ -1,0 +1,9 @@
+Web-Security-Scanner/
+
+├── scanner.py
+├── security_score.py
+├── report_generator.py
+├── requirements.txt
+├── reports/
+│   └── report.txt
+└── README.md
